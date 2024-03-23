@@ -1,2 +1,4 @@
-# SQL_zomato_data_analysis
-This SQL data analysis mini project give several insights from the given data
+# Zomato Data Analysis
+
+- I have done this project to get the proper understanding of all the lines of code.
+- This project doesnot solves any real world problem, it is only for the understanding purpose.
